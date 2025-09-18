@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-09-18T14:05:34.912Z",
-  "updatedAt": "2025-09-18T22:54:44.000Z",
+  "updatedAt": "2025-09-18T22:56:45.000Z",
   "id": "HdA0vwJvVM5fN29P",
   "name": "KAI Workflow A: Project Creation",
   "active": false,
@@ -2059,7 +2059,7 @@
     "templateCredsSetupCompleted": true
   },
   "pinData": {},
-  "versionId": "cc8efe24-8146-435a-9167-d305ae4360b2",
+  "versionId": "74b6e85b-7d63-418e-b49b-2f2c9ce0221b",
   "triggerCount": 1,
   "shared": [
     {
@@ -2084,10 +2084,10 @@
       "name": "github"
     },
     {
-      "createdAt": "2025-07-26T16:26:59.056Z",
-      "updatedAt": "2025-07-26T16:26:59.056Z",
-      "id": "ymrfpVGdtdxogJzd",
-      "name": "v1"
+      "createdAt": "2025-07-30T04:51:52.768Z",
+      "updatedAt": "2025-07-30T04:51:52.768Z",
+      "id": "YGJjCXaFcG0AkCW7",
+      "name": "v2"
     }
   ]
 }
